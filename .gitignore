@@ -1,0 +1,38 @@
+# compiled output
+/dist
+/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# IDE - VSCode
+.vscode/*
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# dotenv environment variable files
+.env
+.env.development
+.env.staging
+.env.test
+!.env.production
+
+# uploads folder
+/uploads
+
+package-lock.json
+.prettierrc
+
+
+/.kiro
+.env.development
+.env.production
+.env.staging

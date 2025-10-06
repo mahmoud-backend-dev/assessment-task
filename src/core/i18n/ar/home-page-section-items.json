@@ -1,0 +1,14 @@
+{
+  "HOME_PAGE_SECTION_ITEM_CREATED_SUCCESSFULLY": "تم إنشاء عنصر قسم الصفحة الرئيسية بنجاح",
+  "HOME_PAGE_SECTION_ITEM_UPDATED_SUCCESSFULLY": "تم تحديث عنصر قسم الصفحة الرئيسية بنجاح",
+  "HOME_PAGE_SECTION_ITEM_DELETED_SUCCESSFULLY": "تم حذف عنصر قسم الصفحة الرئيسية بنجاح",
+  "HOME_PAGE_SECTION_ITEMS_RETRIEVED_SUCCESSFULLY": "تم استرجاع عناصر قسم الصفحة الرئيسية بنجاح",
+  "HOME_PAGE_SECTION_ITEM_RETRIEVED_SUCCESSFULLY": "تم استرجاع عنصر قسم الصفحة الرئيسية بنجاح",
+  "HOME_PAGE_SECTION_ITEM_NOT_FOUND": "عنصر قسم الصفحة الرئيسية غير موجود",
+  "HOME_PAGE_SECTION_ITEM_WITH_ID_NOT_FOUND": "عنصر قسم الصفحة الرئيسية بالمعرف {id} غير موجود",
+  "HOME_PAGE_SECTION_ITEM_ALREADY_EXISTS": "عنصر قسم الصفحة الرئيسية موجود بالفعل",
+  "INVALID_REFERENCE_TYPE": "نوع المرجع غير صحيح: {type}",
+  "INVALID_REFERENCE_ID": "معرف المرجع غير صحيح: {id}",
+  "SECTION_NOT_FOUND": "قسم الصفحة الرئيسية غير موجود",
+  "REFERENCE_ITEM_NOT_FOUND": "العنصر المشار إليه غير موجود"
+} 

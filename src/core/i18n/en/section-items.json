@@ -1,0 +1,11 @@
+{
+  "SECTION_NOT_FOUND": "Section not found",
+  "ITEM_SLUG_ALREADY_EXISTS_IN_SECTION": "Item with this slug already exists in this section",
+  "SECTION_ITEM_WITH_ID_NOT_FOUND": "Section item with ID {id} not found",
+  "SECTION_ITEM_WITH_SLUG_NOT_FOUND": "Section item with slug '{slug}' not found",
+  "SECTION_ITEM_CREATED_SUCCESSFULLY": "Section item created successfully",
+  "SECTION_ITEMS_RETRIEVED_SUCCESSFULLY": "Section items retrieved successfully",
+  "SECTION_ITEM_RETRIEVED_SUCCESSFULLY": "Section item retrieved successfully",
+  "SECTION_ITEM_UPDATED_SUCCESSFULLY": "Section item updated successfully",
+  "SECTION_ITEM_DELETED_SUCCESSFULLY": "Section item deleted successfully"
+}

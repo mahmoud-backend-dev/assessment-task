@@ -1,0 +1,12 @@
+{
+  "CATEGORY_CREATED_SUCCESSFULLY": "Category created successfully",
+  "CATEGORY_UPDATED_SUCCESSFULLY": "Category updated successfully",
+  "CATEGORY_DELETED_SUCCESSFULLY": "Category deleted successfully",
+  "CATEGORY_RETRIEVED_SUCCESSFULLY": "Category retrieved successfully",
+  "CATEGORIES_RETRIEVED_SUCCESSFULLY": "Categories retrieved successfully",
+  "CATEGORY_SLUG_ALREADY_EXISTS": "Category with this slug already exists",
+  "CATEGORY_NOT_FOUND": "Category not found",
+  "CATEGORY_CANNOT_BE_SELF_PARENT": "A category cannot be its own parent.",
+  "CIRCULAR_HIERARCHY_DETECTED": "Circular category hierarchy detected.",
+  "PARENT_CATEGORY_NOT_FOUND": "Parent category not found."
+}

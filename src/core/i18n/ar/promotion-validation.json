@@ -1,0 +1,23 @@
+{
+  "INVALID_PROMO_CODE": "رمز الخصم غير صحيح",
+  "INVALID_PROMOTION_CONFIGURATION": "إعدادات العرض الترويجي غير صحيحة",
+  "PROMOTION_NOT_ACTIVE": "العرض الترويجي لم يعد نشطاً",
+  "PROMOTION_NOT_STARTED": "العرض الترويجي لم يبدأ بعد",
+  "PROMOTION_EXPIRED": "انتهت صلاحية العرض الترويجي",
+  "PROMOTION_NOT_AVAILABLE_ON_PLATFORM": "العرض الترويجي غير متاح على هذه المنصة",
+  "PROMOTION_FOR_NEW_USERS_ONLY": "هذا العرض الترويجي للمستخدمين الجدد فقط",
+  "PROMOTION_FOR_FIRST_LOGIN_ONLY": "هذا العرض الترويجي لأول تسجيل دخول فقط",
+  "MINIMUM_ORDER_COUNT_NOT_MET": "لم يتم استيفاء الحد الأدنى لعدد الطلبات",
+  "PROMOTION_USAGE_LIMIT_EXCEEDED": "تم تجاوز حد استخدام العرض الترويجي",
+  "MAX_USES_FOR_PROMOTION_REACHED": "لقد وصلت إلى الحد الأقصى لاستخدام هذا العرض الترويجي",
+  "MAX_USES_FOR_PROMO_CODE_REACHED": "لقد وصلت إلى الحد الأقصى لاستخدام رمز الخصم هذا",
+  "MINIMUM_PURCHASE_AMOUNT_NOT_MET": "لم يتم استيفاء الحد الأدنى لمبلغ الشراء",
+  "PROMO_CODE_VALID": "رمز الخصم صحيح وجاهز للاستخدام",
+  "UNABLE_TO_VALIDATE_PROMO_CODE": "غير قادر على التحقق من رمز الخصم في الوقت الحالي",
+  "USER_NOT_FOUND": "المستخدم غير موجود",
+  "REFERENCED_ENTITY_NOT_FOUND": "المرجع {type} بالمعرف {id} غير موجود",
+  "PROMOTION_MUST_TARGET_ENTITIES": "يجب أن يستهدف العرض الترويجي علامة تجارية أو فئة أو مجموعة واحدة على الأقل",
+  "INVALID_PROMO_TABLES_TYPE": "نوع جداول العرض الترويجي غير صحيح: {type}",
+  "INVALID_CUSTOMER_TARGETING": "إعدادات استهداف العملاء غير صحيحة",
+  "NO_ELIGIBLE_ITEMS_IN_CART": "سلة التسوق الخاصة بك لا تحتوي على أي عناصر مؤهلة لهذا العرض الترويجي"
+}

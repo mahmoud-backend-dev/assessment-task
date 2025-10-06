@@ -1,0 +1,11 @@
+model ProductCategory {
+  productId  String  @db.Uuid @map("product_id")
+  categoryId String  @db.Uuid @map("category_id")
+
+  product    Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  category   Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+
+  @@id([productId, categoryId])
+  @@map("product_category")
+  @@schema("product_category")
+}

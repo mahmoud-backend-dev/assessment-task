@@ -1,0 +1,16 @@
+export enum FoldersType {
+  TEMP = 'temp',
+  PAGES = 'pages',
+  PAGE_SECTIONS = 'page_sections',
+  SECTION_ITEMS = 'section_items',
+  BRANDS = 'brands',
+  CATEGORIES = 'categories',
+  ATTRIBUTE = 'attribute',
+  ATTRIBUTE_VALUE = 'attribute_value',
+  SELLER_INFO = 'SELLER_INFOS',
+  PRODUCTS = 'PRODUCTS',
+  SELLER_VARIANTS = 'seller_variants',
+  GENERAL_SETTING = 'general_settings',
+  BANNERS = 'banners',
+  SLIDERS = 'sliders',
+}

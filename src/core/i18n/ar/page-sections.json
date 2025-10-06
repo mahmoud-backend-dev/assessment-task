@@ -1,0 +1,17 @@
+{
+  "PAGE_SECTION_CREATED_SUCCESSFULLY": "تم إنشاء قسم الصفحة بنجاح",
+  "PAGE_SECTION_UPDATED_SUCCESSFULLY": "تم تحديث قسم الصفحة بنجاح",
+  "PAGE_SECTION_DELETED_SUCCESSFULLY": "تم حذف قسم الصفحة بنجاح",
+  "PAGE_SECTION_RESTORED_SUCCESSFULLY": "تم استرداد قسم الصفحة بنجاح",
+  "PAGE_SECTIONS_RETRIEVED_SUCCESSFULLY": "تم استرداد أقسام الصفحة بنجاح",
+  "PAGE_SECTION_RETRIEVED_SUCCESSFULLY": "تم استرداد قسم الصفحة بنجاح",
+  "PAGE_SECTIONS_REORDERED_SUCCESSFULLY": "تم إعادة ترتيب أقسام الصفحة بنجاح",
+  "SLUG_SUGGESTION_GENERATED_SUCCESSFULLY": "تم إنشاء اقتراح المعرف بنجاح",
+  "PAGE_SECTION_NOT_FOUND": "قسم الصفحة غير موجود",
+  "PAGE_SECTION_WITH_ID_NOT_FOUND": "قسم الصفحة برقم {id} غير موجود",
+  "PAGE_SECTION_WITH_SLUG_NOT_FOUND": "قسم الصفحة بالمعرف '{slug}' غير موجود",
+  "SECTION_SLUG_ALREADY_EXISTS_FOR_PAGE": "يوجد قسم بهذا المعرف لهذه الصفحة بالفعل",
+  "SECTION_SLUG_ALREADY_EXISTS": "يوجد قسم بهذا المعرف بالفعل",
+  "PAGE_NOT_FOUND": "الصفحة غير موجودة",
+  "INVALID_SECTION_IDS": "معرفات أقسام غير صحيحة: {ids}"
+}

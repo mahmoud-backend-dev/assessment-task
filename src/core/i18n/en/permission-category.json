@@ -1,0 +1,8 @@
+{
+  "PERMISSION_CATEGORY_CREATED_SUCCESSFULLY": "Permission category created successfully",
+  "PERMISSION_CATEGORY_UPDATED_SUCCESSFULLY": "Permission category updated successfully",
+  "PERMISSION_CATEGORY_DELETED_SUCCESSFULLY": "Permission category deleted successfully",
+  "PERMISSION_CATEGORY_RETRIEVED_SUCCESSFULLY": "Permission category retrieved successfully",
+  "PERMISSION_CATEGORY_LIST_RETRIEVED_SUCCESSFULLY": "Permission category list retrieved successfully",
+  "PERMISSION_CATEGORY_WITH_ID_NOT_FOUND": "Permission category with ID {id} not found"
+}

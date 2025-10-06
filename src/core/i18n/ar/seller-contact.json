@@ -1,0 +1,9 @@
+{
+  "SELLER_CONTACT_CREATED_SUCCESSFULLY": "تم إضافة جهة الاتصال بنجاح",
+  "SELLER_CONTACT_UPDATED_SUCCESSFULLY": "تم تحديث جهة الاتصال بنجاح",
+  "SELLER_CONTACT_DELETED_SUCCESSFULLY": "تم حذف جهة الاتصال بنجاح",
+  "SELLER_CONTACT_WITH_ID_NOT_FOUND": "لا توجد جهة اتصال بالمعرف {id}",
+  "EMAIL_ALREADY_USED": "البريد الالكتروني مستخدم اختار ايميل اخر",
+  "PHONE_ALREADY_USED": "رقم التليفون مستخدم اختار رقم تليفون اخر ",
+  "SELLER_WITH_ID_NOT_FOUND": "لا يوجد بائع بالمعرف {id}"
+}

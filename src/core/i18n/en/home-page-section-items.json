@@ -1,0 +1,14 @@
+{
+  "HOME_PAGE_SECTION_ITEM_CREATED_SUCCESSFULLY": "Home page section item created successfully",
+  "HOME_PAGE_SECTION_ITEM_UPDATED_SUCCESSFULLY": "Home page section item updated successfully",
+  "HOME_PAGE_SECTION_ITEM_DELETED_SUCCESSFULLY": "Home page section item deleted successfully",
+  "HOME_PAGE_SECTION_ITEMS_RETRIEVED_SUCCESSFULLY": "Home page section items retrieved successfully",
+  "HOME_PAGE_SECTION_ITEM_RETRIEVED_SUCCESSFULLY": "Home page section item retrieved successfully",
+  "HOME_PAGE_SECTION_ITEM_NOT_FOUND": "Home page section item not found",
+  "HOME_PAGE_SECTION_ITEM_WITH_ID_NOT_FOUND": "Home page section item with ID {id} not found",
+  "HOME_PAGE_SECTION_ITEM_ALREADY_EXISTS": "Home page section item already exists",
+  "INVALID_REFERENCE_TYPE": "Invalid reference type provided: {type}",
+  "INVALID_REFERENCE_ID": "Invalid reference ID provided: {id}",
+  "SECTION_NOT_FOUND": "Home page section not found",
+  "REFERENCE_ITEM_NOT_FOUND": "Referenced item not found"
+} 

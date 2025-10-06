@@ -1,0 +1,12 @@
+{
+  "ACCOUNT_CREATED_SUCCESSFULLY": "Customer account created successfully.",
+  "LOGIN_SUCCESSFUL": "Customer authenticated successfully.",
+  "PROFILE_RETRIEVED_SUCCESSFULLY": "Customer profile retrieved successfully.",
+  "CUSTOMERS_RETRIEVED_SUCCESSFULLY": "Customers retrieved successfully.",
+  "CUSTOMER_RETRIEVED_SUCCESSFULLY": "Customer retrieved successfully.",
+  "CUSTOMER_UPDATED_SUCCESSFULLY": "Customer updated successfully.",
+  "CUSTOMER_REMOVED_SUCCESSFULLY": "Customer removed successfully.",
+  "EMAIL_ALREADY_IN_USE": "Email address is already in use.",
+  "INVALID_CUSTOMER_CREDENTIALS": "Invalid email or password.",
+  "CUSTOMER_NOT_FOUND": "Customer account not found."
+}

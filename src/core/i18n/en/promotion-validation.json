@@ -1,0 +1,23 @@
+{
+  "INVALID_PROMO_CODE": "Invalid promo code",
+  "INVALID_PROMOTION_CONFIGURATION": "Invalid promotion configuration",
+  "PROMOTION_NOT_ACTIVE": "Promotion is no longer active",
+  "PROMOTION_NOT_STARTED": "Promotion has not started yet",
+  "PROMOTION_EXPIRED": "Promotion has expired",
+  "PROMOTION_NOT_AVAILABLE_ON_PLATFORM": "Promotion not available on this platform",
+  "PROMOTION_FOR_NEW_USERS_ONLY": "This promotion is for new users only",
+  "PROMOTION_FOR_FIRST_LOGIN_ONLY": "This promotion is for first-time login only",
+  "MINIMUM_ORDER_COUNT_NOT_MET": "Minimum order count requirement not met",
+  "PROMOTION_USAGE_LIMIT_EXCEEDED": "Promotion usage limit exceeded",
+  "MAX_USES_FOR_PROMOTION_REACHED": "You have reached the maximum uses for this promotion",
+  "MAX_USES_FOR_PROMO_CODE_REACHED": "You have reached the maximum uses for this promo code",
+  "MINIMUM_PURCHASE_AMOUNT_NOT_MET": "Minimum purchase amount requirement not met",
+  "PROMO_CODE_VALID": "Promo code is valid and ready to use",
+  "UNABLE_TO_VALIDATE_PROMO_CODE": "Unable to validate promo code at this time",
+  "USER_NOT_FOUND": "User not found",
+  "REFERENCED_ENTITY_NOT_FOUND": "Referenced {type} with id {id} does not exist",
+  "PROMOTION_MUST_TARGET_ENTITIES": "Promotion must target at least one brand, category, or collection",
+  "INVALID_PROMO_TABLES_TYPE": "Invalid promoTables type: {type}",
+  "INVALID_CUSTOMER_TARGETING": "Invalid customer targeting configuration",
+  "NO_ELIGIBLE_ITEMS_IN_CART": "Your cart does not contain any items eligible for this promotion"
+}

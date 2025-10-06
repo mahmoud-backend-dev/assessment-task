@@ -1,0 +1,8 @@
+{
+  "PERMISSION_CREATED_SUCCESSFULLY": "تم إنشاء الصلاحية بنجاح",
+  "PERMISSION_UPDATED_SUCCESSFULLY": "تم تحديث الصلاحية بنجاح",
+  "PERMISSION_DELETED_SUCCESSFULLY": "تم حذف الصلاحية بنجاح",
+  "PERMISSION_RETRIEVED_SUCCESSFULLY": "تم استرجاع الصلاحية بنجاح",
+  "PERMISSION_LIST_RETRIEVED_SUCCESSFULLY": "تم استرجاع قائمة الصلاحيات بنجاح",
+  "PERMISSION_WITH_ID_NOT_FOUND": "لم يتم العثور على صلاحية بالمعرف {id}"
+}

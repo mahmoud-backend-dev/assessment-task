@@ -1,0 +1,9 @@
+{
+  "SELLER_CREATED_SUCCESSFULLY": "تم إنشاء البائع بنجاح",
+  "SELLER_UPDATED_SUCCESSFULLY": "تم تحديث البائع بنجاح",
+  "SELLER_DELETED_SUCCESSFULLY": "تم حذف البائع بنجاح",
+  "SELLER_RETRIEVED_SUCCESSFULLY": "تم استرجاع بيانات البائع بنجاح",
+  "SELLER_LIST_RETRIEVED_SUCCESSFULLY": "تم استرجاع قائمة البائعين بنجاح",
+  "SELLER_WITH_ID_NOT_FOUND": "لا يوجد بائع بالمعرف {id}",
+  "SELLER_ALREADY_EXISTS": "يوجد بائع بالفعل بالبريد الإلكتروني {email}"
+}

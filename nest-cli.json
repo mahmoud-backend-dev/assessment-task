@@ -1,0 +1,46 @@
+{
+  "collection": "@nestjs/schematics",
+  "sourceRoot": "src",
+  "compilerOptions": {
+    "assets": [
+      {
+        "include": "**/*.json",
+        "outDir": "dist"
+      },
+      {
+        "include": "core/i18n/en/**/*.json",
+        "outDir": "dist"
+      },
+      {
+        "include": "core/i18n/ar/**/*.json",
+        "outDir": "dist"
+      }
+    ],
+    "plugins": [
+      {
+        "name": "@nestjs/swagger/plugin",
+        "options": {
+          "dtoFileNameSuffix": [
+            ".dto.ts",
+            ".entity.ts",
+            ".class.ts",
+            ".enum.ts"
+          ],
+          "classValidatorShim": true,
+          "introspectComments": true
+        }
+      }
+    ]
+  },
+  "projects": {
+    "mail": {
+      "type": "library",
+      "root": "libs/sms",
+      "entryFile": "index",
+      "sourceRoot": "libs/sms/src",
+      "compilerOptions": {
+        "tsConfigPath": "libs/sms/tsconfig.lib.json"
+      }
+    }
+  }
+}

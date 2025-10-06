@@ -1,0 +1,8 @@
+{
+  "SELLER_INFO_CREATED_SUCCESSFULLY": "Seller info created successfully",
+  "SELLER_INFO_UPDATED_SUCCESSFULLY": "Seller info updated successfully",
+  "SELLER_INFO_DELETED_SUCCESSFULLY": "Seller info deleted successfully",
+  "SELLER_INFO_WITH_ID_NOT_FOUND": "Seller info with ID {id} not found",
+  "SELLER_INFO_NOT_FOUND": "Seller info not found",
+  "SELLER_INFO_ALREADY_EXISTS": "Seller info already exists"
+}

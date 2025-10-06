@@ -1,0 +1,31 @@
+﻿enum UserType {
+  ADMIN
+  CUSTOMER
+
+  @@schema("UserType")
+}
+
+enum ProductType {
+  SIMPLE
+  VARIABLE
+
+  @@schema("ProductType")
+}
+
+enum ProductStatus {
+  DRAFT
+  ACTIVE
+  ARCHIVED
+
+  @@schema("ProductStatus")
+}
+
+enum OrderStatus {
+  PENDING
+  CONFIRMED
+  SHIPPED
+  DELIVERED
+  CANCELLED
+
+  @@schema("OrderStatus")
+}

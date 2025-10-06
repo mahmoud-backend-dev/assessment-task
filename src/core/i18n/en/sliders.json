@@ -1,0 +1,8 @@
+{
+  "SLIDER_CREATED_SUCCESSFULLY": "Slider created successfully",
+  "SLIDER_UPDATED_SUCCESSFULLY": "Slider updated successfully",
+  "SLIDER_DELETED_SUCCESSFULLY": "Slider deleted successfully",
+  "SLIDER_RETRIEVED_SUCCESSFULLY": "Slider retrieved successfully",
+  "SLIDERS_RETRIEVED_SUCCESSFULLY": "Sliders retrieved successfully",
+  "SLIDER_WITH_ID_NOT_FOUND": "Slider with ID {id} not found"
+} 

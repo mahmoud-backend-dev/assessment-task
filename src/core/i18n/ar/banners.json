@@ -1,0 +1,9 @@
+{
+  "BANNER_CREATED_SUCCESSFULLY": "تم إنشاء البانر بنجاح",
+  "BANNER_UPDATED_SUCCESSFULLY": "تم تحديث البانر بنجاح",
+  "BANNER_DELETED_SUCCESSFULLY": "تم حذف البانر بنجاح",
+  "BANNER_RETRIEVED_SUCCESSFULLY": "تم استرجاع البانر بنجاح",
+  "BANNERS_RETRIEVED_SUCCESSFULLY": "تم استرجاع البانرات بنجاح",
+  "BANNER_WITH_ID_NOT_FOUND": "البانر بالمعرف {id} غير موجود",
+  "COUNTRY_NOT_FOUND": "الدولة بالمعرف {id} غير موجودة"
+} 

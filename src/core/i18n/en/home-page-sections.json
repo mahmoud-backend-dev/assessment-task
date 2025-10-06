@@ -1,0 +1,16 @@
+{
+  "HOME_PAGE_SECTION_CREATED_SUCCESSFULLY": "Home page section created successfully",
+  "HOME_PAGE_SECTION_UPDATED_SUCCESSFULLY": "Home page section updated successfully",
+  "HOME_PAGE_SECTION_DELETED_SUCCESSFULLY": "Home page section deleted successfully",
+  "HOME_PAGE_SECTIONS_RETRIEVED_SUCCESSFULLY": "Home page sections retrieved successfully",
+  "HOME_PAGE_SECTION_RETRIEVED_SUCCESSFULLY": "Home page section retrieved successfully",
+  "ACTIVE_HOME_PAGE_SECTIONS_RETRIEVED_SUCCESSFULLY": "Active home page sections retrieved successfully",
+  "HOME_PAGE_SECTION_NOT_FOUND": "Home page section not found",
+  "HOME_PAGE_SECTION_WITH_ID_NOT_FOUND": "Home page section with ID {id} not found",
+  "HOME_PAGE_SECTION_WITH_PAGE_SLUG_NOT_FOUND": "Home page section with page slug '{pageSlug}' not found",
+  "HOME_PAGE_SECTION_WITH_TYPE_NOT_FOUND": "Home page section with type '{type}' not found",
+  "PAGE_SLUG_ALREADY_EXISTS": "Page slug already exists",
+  "INVALID_SECTION_TYPE": "Invalid section type provided: {type}",
+  "INVALID_DATE_RANGE": "End date must be after start date",
+  "SECTION_OUTSIDE_DATE_RANGE": "Section is outside the specified date range"
+} 

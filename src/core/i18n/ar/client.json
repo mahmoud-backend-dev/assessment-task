@@ -1,0 +1,12 @@
+{
+  "ACCOUNT_CREATED_SUCCESSFULLY": "تم إنشاء حساب العميل بنجاح.",
+  "LOGIN_SUCCESSFUL": "تم تسجيل دخول العميل بنجاح.",
+  "PROFILE_RETRIEVED_SUCCESSFULLY": "تم جلب ملف العميل بنجاح.",
+  "CUSTOMERS_RETRIEVED_SUCCESSFULLY": "تم جلب قائمة العملاء بنجاح.",
+  "CUSTOMER_RETRIEVED_SUCCESSFULLY": "تم جلب بيانات العميل بنجاح.",
+  "CUSTOMER_UPDATED_SUCCESSFULLY": "تم تحديث بيانات العميل بنجاح.",
+  "CUSTOMER_REMOVED_SUCCESSFULLY": "تم حذف العميل بنجاح.",
+  "EMAIL_ALREADY_IN_USE": "البريد الإلكتروني مستخدم بالفعل.",
+  "INVALID_CUSTOMER_CREDENTIALS": "بيانات تسجيل الدخول غير صحيحة.",
+  "CUSTOMER_NOT_FOUND": "لم يتم العثور على حساب العميل."
+}

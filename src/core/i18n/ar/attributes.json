@@ -1,0 +1,10 @@
+{
+  "ATTRIBUTE_CREATED_SUCCESSFULLY": "تم إنشاء السمة بنجاح",
+  "ATTRIBUTE_UPDATED_SUCCESSFULLY": "تم تحديث السمة بنجاح",
+  "ATTRIBUTE_DELETED_SUCCESSFULLY": "تم حذف السمة بنجاح",
+  "ATTRIBUTE_RETRIEVED_SUCCESSFULLY": "تم استرجاع السمة بنجاح",
+  "ATTRIBUTES_RETRIEVED_SUCCESSFULLY": "تم استرجاع السمات بنجاح",
+  "ATTRIBUTE_WITH_ID_NOT_FOUND": "السمة برقم {{id}} غير موجودة",
+  "ATTRIBUTE_WITH_CODE_NOT_FOUND": "السمة بالكود {{code}} غير موجودة",
+  "ATTRIBUTE_CODE_ALREADY_EXISTS": "السمة بهذا الكود موجودة بالفعل"
+}

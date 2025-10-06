@@ -1,0 +1,35 @@
+model ProductRelated {
+  productId        String  @db.Uuid @map("product_id")
+  relatedProductId String  @db.Uuid @map("related_product_id")
+
+  product        Product @relation(fields: [productId], references: [id])
+  relatedProduct Product @relation("RelatedIn", fields: [relatedProductId], references: [id])
+
+  @@id([productId, relatedProductId])
+  @@map("product_related")
+  @@schema("product_related")
+}
+
+model ProductUpSell {
+  productId      String  @db.Uuid @map("product_id")
+  upSellProductId String @db.Uuid @map("up_sell_product_id")
+
+  product      Product @relation(fields: [productId], references: [id])
+  upSellProduct Product @relation("UpSellIn", fields: [upSellProductId], references: [id])
+
+  @@id([productId, upSellProductId])
+  @@map("product_up_sell")
+  @@schema("product_up_sell")
+}
+
+model ProductCrossSell {
+  productId          String  @db.Uuid @map("product_id")
+  crossSellProductId String  @db.Uuid @map("cross_sell_product_id")
+
+  product         Product @relation(fields: [productId], references: [id])
+  crossSellProduct Product @relation("CrossSellIn", fields: [crossSellProductId], references: [id])
+
+  @@id([productId, crossSellProductId])
+  @@map("product_cross_sell")
+  @@schema("product_cross_sell")
+}

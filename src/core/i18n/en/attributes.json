@@ -1,0 +1,10 @@
+{
+  "ATTRIBUTE_CREATED_SUCCESSFULLY": "Attribute created successfully",
+  "ATTRIBUTE_UPDATED_SUCCESSFULLY": "Attribute updated successfully",
+  "ATTRIBUTE_DELETED_SUCCESSFULLY": "Attribute deleted successfully",
+  "ATTRIBUTE_RETRIEVED_SUCCESSFULLY": "Attribute retrieved successfully",
+  "ATTRIBUTES_RETRIEVED_SUCCESSFULLY": "Attributes retrieved successfully",
+  "ATTRIBUTE_WITH_ID_NOT_FOUND": "Attribute with ID {{id}} not found",
+  "ATTRIBUTE_WITH_CODE_NOT_FOUND": "Attribute with code {{code}} not found",
+  "ATTRIBUTE_CODE_ALREADY_EXISTS": "An attribute with this code already exists"
+}

@@ -1,0 +1,28 @@
+model Category {
+  // BaseEntity
+  id         String   @id @default(uuid()) @db.Uuid
+  isActive   Boolean  @default(true)
+  createdAt  DateTime @default(now()) @map("created_at")
+  updatedAt  DateTime @updatedAt       @map("updated_at")
+  deletedAt  DateTime?
+
+  slug             String   @db.VarChar(191)
+  title            Json
+  isFeatured       Boolean  @default(false) @map("is_featured")
+  isNew            Boolean  @default(true)  @map("is_new")
+  isReturnable     Boolean  @default(true)  @map("is_returnable")
+
+  parentId         String?  @db.Uuid @map("parent_id")
+  parent           Category? @relation("CategoryToParent", fields: [parentId], references: [id], onDelete: SetNull)
+  children         Category[] @relation("CategoryToParent")
+
+  metaKeywords     Json?    @map("meta_keywords")
+  metaDescription  Json?    @map("meta_description")
+
+  productsLinks    ProductCategory[]
+
+  @@unique([slug, deletedAt], map: "IDX_categories_slug_unique")
+  @@index([parentId], map: "IDX_categories_parent_id")
+  @@map("categories")
+  @@schema("categories")
+}

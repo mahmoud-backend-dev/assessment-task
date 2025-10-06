@@ -1,0 +1,65 @@
+﻿model Product {
+  id             String        @id @default(uuid()) @db.Uuid
+  isActive       Boolean       @default(true)
+  createdAt      DateTime      @default(now()) @map("created_at")
+  updatedAt      DateTime      @updatedAt       @map("updated_at")
+  deletedAt      DateTime?
+
+  name           Json
+  description    Json?
+  shortDescription Json?
+  slug           String        @db.VarChar(255)
+  sku            String        @db.VarChar(191)
+  basePrice      Decimal?      @db.Decimal(10, 2) @map("base_price")
+  type           ProductType
+  status         ProductStatus @default(ACTIVE)
+  isBestPrice    Boolean       @default(false)
+  isExclusive    Boolean       @default(false)
+  isTopSelling   Boolean       @default(false)
+  isNewArrival   Boolean       @default(false)
+
+  createdById    String        @db.Uuid @map("created_by_id")
+
+  createdBy       User              @relation("ProductCreatedBy", fields: [createdById], references: [id], onDelete: Restrict)
+  variants        ProductVariant[]
+  categoriesLinks ProductCategory[]
+  relatedOut      ProductRelated[]
+  relatedIn       ProductRelated[]   @relation("RelatedIn")
+  upSellOut       ProductUpSell[]
+  upSellIn        ProductUpSell[]    @relation("UpSellIn")
+  crossSellOut    ProductCrossSell[]
+  crossSellIn     ProductCrossSell[] @relation("CrossSellIn")
+  orderItems      OrderItem[]
+
+  @@unique([slug, deletedAt], map: "UQ_Product_slug")
+  @@unique([sku, deletedAt], map: "UQ_Product_sku")
+  @@index([createdById], map: "IDX_product_created_by")
+  @@map("products")
+  @@schema("products")
+}
+
+
+model ProductVariant {
+  id          String   @id @default(uuid()) @db.Uuid
+  isActive    Boolean  @default(true)
+  createdAt   DateTime @default(now()) @map("created_at")
+  updatedAt   DateTime @updatedAt       @map("updated_at")
+  deletedAt   DateTime?
+
+  productId   String   @db.Uuid @map("product_id")
+  name        Json?
+  sku         String   @db.VarChar(191)
+  attributes  Json?
+  isPrimary   Boolean  @default(false) @map("is_primary")
+  price       Decimal  @db.Decimal(10, 2)
+  listPrice   Decimal? @db.Decimal(10, 2) @map("list_price")
+  stock       Int      @default(0)
+
+  product     Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  orderItems  OrderItem[]
+
+  @@unique([productId, sku], map: "UQ_ProductVariant_sku")
+  @@index([productId], map: "IDX_product_variant_product")
+  @@map("product_variants")
+  @@schema("product_variants")
+}

@@ -1,0 +1,8 @@
+{
+  "SELLER_INFO_CREATED_SUCCESSFULLY": "تم إنشاء معلومات البائع بنجاح",
+  "SELLER_INFO_UPDATED_SUCCESSFULLY": "تم تحديث معلومات البائع بنجاح",
+  "SELLER_INFO_DELETED_SUCCESSFULLY": "تم حذف معلومات البائع بنجاح",
+  "SELLER_INFO_WITH_ID_NOT_FOUND": "لا توجد معلومات للبائع بالمعرف {id}",
+  "SELLER_INFO_NOT_FOUND": "لم يتم العثور على معلومات البائع",
+  "SELLER_INFO_ALREADY_EXISTS": "معلومات البائع موجودة بالفعل"
+}

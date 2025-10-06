@@ -1,0 +1,10 @@
+{
+  "HOME_PAGE_CREATED_SUCCESSFULLY": "تم إنشاء الصفحة الرئيسية بنجاح",
+  "HOME_PAGE_UPDATED_SUCCESSFULLY": "تم تحديث الصفحة الرئيسية بنجاح",
+  "HOME_PAGE_DELETED_SUCCESSFULLY": "تم حذف الصفحة الرئيسية بنجاح",
+  "HOME_PAGE_RETRIEVED_SUCCESSFULLY": "تم استرجاع الصفحة الرئيسية بنجاح",
+  "HOME_PAGES_RETRIEVED_SUCCESSFULLY": "تم استرجاع الصفحات الرئيسية بنجاح",
+  "DEFAULT_HOME_PAGE_NOT_FOUND": "الصفحة الرئيسية الافتراضية للنمط {type} غير موجودة",
+  "HOME_PAGE_WITH_ID_NOT_FOUND": "الصفحة الرئيسية بالمعرف {id} غير موجودة",
+  "CANNOT_DELETE_DEFAULT_HOME_PAGE": "لا يمكن حذف الصفحة الرئيسية الافتراضية"
+} 

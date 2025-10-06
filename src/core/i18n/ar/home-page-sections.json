@@ -1,0 +1,16 @@
+{
+  "HOME_PAGE_SECTION_CREATED_SUCCESSFULLY": "تم إنشاء قسم الصفحة الرئيسية بنجاح",
+  "HOME_PAGE_SECTION_UPDATED_SUCCESSFULLY": "تم تحديث قسم الصفحة الرئيسية بنجاح",
+  "HOME_PAGE_SECTION_DELETED_SUCCESSFULLY": "تم حذف قسم الصفحة الرئيسية بنجاح",
+  "HOME_PAGE_SECTIONS_RETRIEVED_SUCCESSFULLY": "تم استرجاع أقسام الصفحة الرئيسية بنجاح",
+  "HOME_PAGE_SECTION_RETRIEVED_SUCCESSFULLY": "تم استرجاع قسم الصفحة الرئيسية بنجاح",
+  "ACTIVE_HOME_PAGE_SECTIONS_RETRIEVED_SUCCESSFULLY": "تم استرجاع أقسام الصفحة الرئيسية النشطة بنجاح",
+  "HOME_PAGE_SECTION_NOT_FOUND": "قسم الصفحة الرئيسية غير موجود",
+  "HOME_PAGE_SECTION_WITH_ID_NOT_FOUND": "قسم الصفحة الرئيسية بالمعرف {id} غير موجود",
+  "HOME_PAGE_SECTION_WITH_PAGE_SLUG_NOT_FOUND": "قسم الصفحة الرئيسية برابط الصفحة '{pageSlug}' غير موجود",
+  "HOME_PAGE_SECTION_WITH_TYPE_NOT_FOUND": "قسم الصفحة الرئيسية بالنوع '{type}' غير موجود",
+  "PAGE_SLUG_ALREADY_EXISTS": "رابط الصفحة موجود بالفعل",
+  "INVALID_SECTION_TYPE": "نوع القسم غير صحيح: {type}",
+  "INVALID_DATE_RANGE": "تاريخ الانتهاء يجب أن يكون بعد تاريخ البداية",
+  "SECTION_OUTSIDE_DATE_RANGE": "القسم خارج النطاق الزمني المحدد"
+} 

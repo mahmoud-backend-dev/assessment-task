@@ -1,0 +1,8 @@
+{
+  "ROLE_CREATED_SUCCESSFULLY": "تم إنشاء الدور بنجاح",
+  "ROLE_UPDATED_SUCCESSFULLY": "تم تحديث الدور بنجاح",
+  "ROLE_DELETED_SUCCESSFULLY": "تم حذف الدور بنجاح",
+  "ROLE_RETRIEVED_SUCCESSFULLY": "تم جلب الدور بنجاح",
+  "ROLE_LIST_RETRIEVED_SUCCESSFULLY": "تم جلب قائمة الأدوار بنجاح",
+  "ROLE_WITH_ID_NOT_FOUND": "لم يتم العثور على دور بالمعرف {id}"
+}

@@ -1,0 +1,8 @@
+{
+  "PERMISSION_CATEGORY_CREATED_SUCCESSFULLY": "تم إنشاء فئة الصلاحية بنجاح",
+  "PERMISSION_CATEGORY_UPDATED_SUCCESSFULLY": "تم تحديث فئة الصلاحية بنجاح",
+  "PERMISSION_CATEGORY_DELETED_SUCCESSFULLY": "تم حذف فئة الصلاحية بنجاح",
+  "PERMISSION_CATEGORY_RETRIEVED_SUCCESSFULLY": "تم جلب فئة الصلاحية بنجاح",
+  "PERMISSION_CATEGORY_LIST_RETRIEVED_SUCCESSFULLY": "تم جلب قائمة فئات الصلاحيات بنجاح",
+  "PERMISSION_CATEGORY_WITH_ID_NOT_FOUND": "فئة الصلاحية برقم {id} غير موجودة"
+}

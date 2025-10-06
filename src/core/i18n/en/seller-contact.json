@@ -1,0 +1,9 @@
+{
+  "SELLER_CONTACT_CREATED_SUCCESSFULLY": "Contact person added successfully",
+  "SELLER_CONTACT_UPDATED_SUCCESSFULLY": "Contact person updated successfully",
+  "SELLER_CONTACT_DELETED_SUCCESSFULLY": "Contact person deleted successfully",
+  "SELLER_CONTACT_WITH_ID_NOT_FOUND": "Contact person with ID {id} not found",
+  "EMAIL_ALREADY_USED": "email already used choose another email.",
+  "PHONE_ALREADY_USED": "phone already used choose another phone.",
+  "SELLER_WITH_ID_NOT_FOUND": "Seller with ID {id} not found."
+}

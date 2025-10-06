@@ -1,0 +1,8 @@
+{
+  "PERMISSION_CREATED_SUCCESSFULLY": "Permission created successfully",
+  "PERMISSION_UPDATED_SUCCESSFULLY": "Permission updated successfully",
+  "PERMISSION_DELETED_SUCCESSFULLY": "Permission deleted successfully",
+  "PERMISSION_RETRIEVED_SUCCESSFULLY": "Permission retrieved successfully",
+  "PERMISSION_LIST_RETRIEVED_SUCCESSFULLY": "Permission list retrieved successfully",
+  "PERMISSION_WITH_ID_NOT_FOUND": "Permission with ID {id} not found"
+}

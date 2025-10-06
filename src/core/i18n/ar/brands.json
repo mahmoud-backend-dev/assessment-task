@@ -1,0 +1,13 @@
+{
+  "BRAND_CREATED_SUCCESSFULLY": "تم إنشاء العلامة التجارية بنجاح",
+  "BRAND_UPDATED_SUCCESSFULLY": "تم تحديث العلامة التجارية بنجاح",
+  "BRAND_DELETED_SUCCESSFULLY": "تم حذف العلامة التجارية بنجاح",
+  "BRAND_PUBLISHED_SUCCESSFULLY": "تم نشر العلامة التجارية بنجاح",
+  "BRAND_RETRIEVED_SUCCESSFULLY": "تم استرجاع العلامة التجارية بنجاح",
+  "BRANDS_RETRIEVED_SUCCESSFULLY": "تم استرجاع العلامات التجارية بنجاح",
+  "FEATURED_BRANDS_RETRIEVED_SUCCESSFULLY": "تم استرجاع العلامات التجارية المميزة بنجاح",
+  "NEW_BRANDS_RETRIEVED_SUCCESSFULLY": "تم استرجاع العلامات التجارية الجديدة بنجاح",
+  "BRAND_WITH_ID_NOT_FOUND": "العلامة التجارية برقم {{id}} غير موجودة",
+  "BRAND_WITH_SLUG_NOT_FOUND": "العلامة التجارية بالرابط {{slug}} غير موجودة",
+  "BRAND_SLUG_ALREADY_EXISTS": "العلامة التجارية بهذا الرابط موجودة بالفعل"
+}

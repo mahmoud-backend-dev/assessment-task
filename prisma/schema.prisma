@@ -1,0 +1,11 @@
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+  schemas = ["categories","UserType","ProductType","ProductStatus","OrderStatus","orders","order_items","product_category","product_related","product_up_sell","product_cross_sell","products","product_variants","users"]  
+}
+

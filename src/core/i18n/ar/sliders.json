@@ -1,0 +1,8 @@
+{
+  "SLIDER_CREATED_SUCCESSFULLY": "تم إنشاء السلايدر بنجاح",
+  "SLIDER_UPDATED_SUCCESSFULLY": "تم تحديث السلايدر بنجاح",
+  "SLIDER_DELETED_SUCCESSFULLY": "تم حذف السلايدر بنجاح",
+  "SLIDER_RETRIEVED_SUCCESSFULLY": "تم استرجاع السلايدر بنجاح",
+  "SLIDERS_RETRIEVED_SUCCESSFULLY": "تم استرجاع السلايدرز بنجاح",
+  "SLIDER_WITH_ID_NOT_FOUND": "السلايدر بالمعرف {id} غير موجود"
+} 

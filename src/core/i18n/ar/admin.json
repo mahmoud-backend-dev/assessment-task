@@ -1,0 +1,12 @@
+{
+  "ADMIN_CREATED_SUCCESSFULLY": "تم إنشاء المشرف بنجاح",
+  "ADMIN_UPDATED_SUCCESSFULLY": "تم تحديث المشرف بنجاح",
+  "ADMIN_DELETED_SUCCESSFULLY": "تم حذف المشرف بنجاح",
+  "ADMIN_RETRIEVED_SUCCESSFULLY": "تم استرجاع بيانات المشرف بنجاح",
+  "ADMIN_LIST_RETRIEVED_SUCCESSFULLY": "تم استرجاع قائمة المشرفين بنجاح",
+  "ADMIN_WITH_ID_NOT_FOUND": "لا يوجد مشرف بالمعرف {id}",
+  "INVALID_ADMIN_CREDENTIALS": "البريد الإلكتروني أو كلمة المرور غير صحيحة",
+  "ADMIN_ALREADY_EXISTS": "يوجد مشرف بالفعل بالبريد الإلكتروني {email}",
+  "ADMIN_LOGIN_SUCCESS": "تم تسجيل الدخول بنجاح",
+  "ADMIN_LOGOUT_SUCCESS": "تم تسجيل الخروج بنجاح"
+}

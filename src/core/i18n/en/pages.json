@@ -1,0 +1,12 @@
+{
+  "PAGE_CREATED_SUCCESSFULLY": "Page created successfully",
+  "PAGE_UPDATED_SUCCESSFULLY": "Page updated successfully",
+  "PAGE_DELETED_SUCCESSFULLY": "Page deleted successfully",
+  "PAGE_RESTORED_SUCCESSFULLY": "Page restored successfully",
+  "PAGES_RETRIEVED_SUCCESSFULLY": "Pages retrieved successfully",
+  "PAGE_RETRIEVED_SUCCESSFULLY": "Page retrieved successfully",
+  "PAGE_NOT_FOUND": "Page not found",
+  "PAGE_SLUG_ALREADY_EXISTS": "Page with this slug already exists",
+  "PAGE_WITH_ID_NOT_FOUND": "Page with ID {id} not found",
+  "PAGE_WITH_SLUG_NOT_FOUND": "Page with slug '{slug}' not found"
+}

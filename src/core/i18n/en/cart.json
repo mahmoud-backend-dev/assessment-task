@@ -1,0 +1,9 @@
+{
+  "ITEM_REMOVED": "Item removed from cart.",
+  "OUT_OF_STOCK": "This item is currently out of stock.",
+  "LIMITED_STOCK": "Only {available} unit(s) available in stock. Please adjust your quantity.",
+  "ACCESS_DENIED": "Access denied to this cart item.",
+  "CLEARED_ITEMS": "Cleared {count} items from cart for user context",
+  "NO_ITEMS_TO_CLEAR": "No items found to clear for user (clientId: {clientId}, guestId: {guestId}). Cart was already empty.",
+  "FAILED_TO_LOAD_MEDIA": "Failed to load seller variant media"
+}

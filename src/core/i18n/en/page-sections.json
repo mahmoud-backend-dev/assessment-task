@@ -1,0 +1,17 @@
+{
+  "PAGE_SECTION_CREATED_SUCCESSFULLY": "Page section created successfully",
+  "PAGE_SECTION_UPDATED_SUCCESSFULLY": "Page section updated successfully",
+  "PAGE_SECTION_DELETED_SUCCESSFULLY": "Page section deleted successfully",
+  "PAGE_SECTION_RESTORED_SUCCESSFULLY": "Page section restored successfully",
+  "PAGE_SECTIONS_RETRIEVED_SUCCESSFULLY": "Page sections retrieved successfully",
+  "PAGE_SECTION_RETRIEVED_SUCCESSFULLY": "Page section retrieved successfully",
+  "PAGE_SECTIONS_REORDERED_SUCCESSFULLY": "Page sections reordered successfully",
+  "SLUG_SUGGESTION_GENERATED_SUCCESSFULLY": "Slug suggestion generated successfully",
+  "PAGE_SECTION_NOT_FOUND": "Page section not found",
+  "PAGE_SECTION_WITH_ID_NOT_FOUND": "Page section with ID {id} not found",
+  "PAGE_SECTION_WITH_SLUG_NOT_FOUND": "Page section with slug '{slug}' not found",
+  "SECTION_SLUG_ALREADY_EXISTS_FOR_PAGE": "Section with this slug already exists for this page",
+  "SECTION_SLUG_ALREADY_EXISTS": "Section with this slug already exists",
+  "PAGE_NOT_FOUND": "Page not found",
+  "INVALID_SECTION_IDS": "Invalid section IDs provided: {ids}"
+}

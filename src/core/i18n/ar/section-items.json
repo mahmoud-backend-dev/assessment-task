@@ -1,0 +1,11 @@
+{
+  "SECTION_NOT_FOUND": "القسم غير موجود",
+  "ITEM_SLUG_ALREADY_EXISTS_IN_SECTION": "يوجد عنصر بهذا المعرف في هذا القسم بالفعل",
+  "SECTION_ITEM_WITH_ID_NOT_FOUND": "عنصر القسم برقم {id} غير موجود",
+  "SECTION_ITEM_WITH_SLUG_NOT_FOUND": "عنصر القسم بالمعرف '{slug}' غير موجود",
+  "SECTION_ITEM_CREATED_SUCCESSFULLY": "تم إنشاء عنصر القسم بنجاح",
+  "SECTION_ITEMS_RETRIEVED_SUCCESSFULLY": "تم استرداد عناصر القسم بنجاح",
+  "SECTION_ITEM_RETRIEVED_SUCCESSFULLY": "تم استرداد عنصر القسم بنجاح",
+  "SECTION_ITEM_UPDATED_SUCCESSFULLY": "تم تحديث عنصر القسم بنجاح",
+  "SECTION_ITEM_DELETED_SUCCESSFULLY": "تم حذف عنصر القسم بنجاح"
+}

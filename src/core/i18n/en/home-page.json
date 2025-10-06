@@ -1,0 +1,10 @@
+{
+  "HOME_PAGE_CREATED_SUCCESSFULLY": "Home page created successfully",
+  "HOME_PAGE_UPDATED_SUCCESSFULLY": "Home page updated successfully",
+  "HOME_PAGE_DELETED_SUCCESSFULLY": "Home page deleted successfully",
+  "HOME_PAGE_RETRIEVED_SUCCESSFULLY": "Home page retrieved successfully",
+  "HOME_PAGES_RETRIEVED_SUCCESSFULLY": "Home pages retrieved successfully",
+  "DEFAULT_HOME_PAGE_NOT_FOUND": "Default home page for type {type} not found",
+  "HOME_PAGE_WITH_ID_NOT_FOUND": "Home page with ID {id} not found",
+  "CANNOT_DELETE_DEFAULT_HOME_PAGE": "Cannot delete the default home page"
+} 

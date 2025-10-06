@@ -1,0 +1,12 @@
+{
+  "PAGE_CREATED_SUCCESSFULLY": "تم إنشاء الصفحة بنجاح",
+  "PAGE_UPDATED_SUCCESSFULLY": "تم تحديث الصفحة بنجاح",
+  "PAGE_DELETED_SUCCESSFULLY": "تم حذف الصفحة بنجاح",
+  "PAGE_RESTORED_SUCCESSFULLY": "تم استعادة الصفحة بنجاح",
+  "PAGES_RETRIEVED_SUCCESSFULLY": "تم جلب الصفحات بنجاح",
+  "PAGE_RETRIEVED_SUCCESSFULLY": "تم جلب الصفحة بنجاح",
+  "PAGE_NOT_FOUND": "الصفحة غير موجودة",
+  "PAGE_SLUG_ALREADY_EXISTS": "صفحة بهذا الرابط موجودة بالفعل",
+  "PAGE_WITH_ID_NOT_FOUND": "الصفحة برقم {id} غير موجودة",
+  "PAGE_WITH_SLUG_NOT_FOUND": "الصفحة بالرابط '{slug}' غير موجودة"
+}

@@ -1,0 +1,13 @@
+{
+  "BRAND_CREATED_SUCCESSFULLY": "Brand created successfully",
+  "BRAND_UPDATED_SUCCESSFULLY": "Brand updated successfully",
+  "BRAND_DELETED_SUCCESSFULLY": "Brand deleted successfully",
+  "BRAND_PUBLISHED_SUCCESSFULLY": "Brand published successfully",
+  "BRAND_RETRIEVED_SUCCESSFULLY": "Brand retrieved successfully",
+  "BRANDS_RETRIEVED_SUCCESSFULLY": "Brands retrieved successfully",
+  "FEATURED_BRANDS_RETRIEVED_SUCCESSFULLY": "Featured brands retrieved successfully",
+  "NEW_BRANDS_RETRIEVED_SUCCESSFULLY": "New brands retrieved successfully",
+  "BRAND_WITH_ID_NOT_FOUND": "Brand with ID {{id}} not found",
+  "BRAND_WITH_SLUG_NOT_FOUND": "Brand with slug {{slug}} not found",
+  "BRAND_SLUG_ALREADY_EXISTS": "Brand with this slug already exists"
+}

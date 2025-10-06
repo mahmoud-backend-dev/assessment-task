@@ -1,0 +1,12 @@
+{
+  "CATEGORY_CREATED_SUCCESSFULLY": "تم إنشاء التصنيف بنجاح",
+  "CATEGORY_UPDATED_SUCCESSFULLY": "تم تحديث التصنيف بنجاح",
+  "CATEGORY_DELETED_SUCCESSFULLY": "تم حذف التصنيف بنجاح",
+  "CATEGORY_RETRIEVED_SUCCESSFULLY": "تم جلب التصنيف بنجاح",
+  "CATEGORIES_RETRIEVED_SUCCESSFULLY": "تم جلب التصنيفات بنجاح",
+  "CATEGORY_SLUG_ALREADY_EXISTS": "يوجد تصنيف بهذا المعرف بالفعل",
+  "CATEGORY_NOT_FOUND": "التصنيف غير موجود",
+  "CATEGORY_CANNOT_BE_SELF_PARENT": "لا يمكن أن يكون التصنيف هو الأب لنفسه.",
+  "CIRCULAR_HIERARCHY_DETECTED": "تم اكتشاف تسلسل هرمي دائري للتصنيفات.",
+  "PARENT_CATEGORY_NOT_FOUND": "لم يتم العثور على التصنيف الأب."
+}

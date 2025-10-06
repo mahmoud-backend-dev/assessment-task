@@ -1,0 +1,6 @@
+{
+  "PROMOTION_WITH_ID_NOT_FOUND": "Promotion with ID {id} not found.",
+  "PROMOTION_WITH_CODE_NOT_FOUND": "Promotion with code {code} not found.",
+  "PROMOTION_DELETED_SUCCESSFULLY": "Promotion deleted successfully.",
+  "DUPLICATE_PROMO_CODES_FOUND": "Duplicate promo codes found: {codes}."
+}

@@ -1,0 +1,9 @@
+{
+  "ITEM_REMOVED": "تم إزالة العنصر من السلة.",
+  "OUT_OF_STOCK": "هذا المنتج غير متوفر حالياً في المخزون.",
+  "LIMITED_STOCK": "يتوفر فقط {available} وحدة في المخزون. يرجى تعديل الكمية.",
+  "ACCESS_DENIED": "تم رفض الوصول إلى عنصر السلة هذا.",
+  "CLEARED_ITEMS": "تم مسح {count} عنصر من السلة لسياق المستخدم",
+  "NO_ITEMS_TO_CLEAR": "لا توجد عناصر للمسح للمستخدم (clientId: {clientId}, guestId: {guestId}). السلة كانت فارغة بالفعل.",
+  "FAILED_TO_LOAD_MEDIA": "فشل في تحميل وسائط البائع"
+}

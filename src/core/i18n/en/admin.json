@@ -1,0 +1,12 @@
+{
+  "ADMIN_CREATED_SUCCESSFULLY": "Admin created successfully",
+  "ADMIN_UPDATED_SUCCESSFULLY": "Admin updated successfully",
+  "ADMIN_DELETED_SUCCESSFULLY": "Admin deleted successfully",
+  "ADMIN_RETRIEVED_SUCCESSFULLY": "Admin retrieved successfully",
+  "ADMIN_LIST_RETRIEVED_SUCCESSFULLY": "Admin list retrieved successfully",
+  "ADMIN_WITH_ID_NOT_FOUND": "Admin with ID {id} not found",
+  "INVALID_ADMIN_CREDENTIALS": "Invalid email or password",
+  "ADMIN_ALREADY_EXISTS": "Admin with email {email} already exists",
+  "ADMIN_LOGIN_SUCCESS": "Logged in successfully",
+  "ADMIN_LOGOUT_SUCCESS": "Logged out successfully"
+}
